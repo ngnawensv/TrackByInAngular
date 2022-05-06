@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project present how to use `trackBy` function. `trackBy` is use to improve the performance of an angular application. 
 With large collection of data, angular `ngFor` structure directive may perform poorly. When we use `trackBy` function, all data in the DOM will not recreated.
-For more information `https://codebriefly.com/how-to-use-trackby-in-angular-with-example/`
+[For more information] (https://codebriefly.com/how-to-use-trackby-in-angular-with-example/)
 
 ## Development server
 
