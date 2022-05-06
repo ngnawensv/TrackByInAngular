@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
+## Description
+
+This project present how to use `trackBy` function. ``trackBy ` is use to improve the performance of an angular application. 
+With large collection of data, angular `ngFor` structure directive may perform poorly. When we use `trackBy` function, all data in the DOM will not recreated.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
